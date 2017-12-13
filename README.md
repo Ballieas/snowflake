@@ -1,4 +1,4 @@
-#### A simple implementation for snowflake
+#### A simple implementation of snowflake
 
 ##### Usage
 ```php
