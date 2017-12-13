@@ -3,14 +3,7 @@
 namespace Library;
 
 /**
- * @Copyright (c) 2016, Finance and Technology BU
- * All rights reserved.
- *
- * @class       Snowflake
- * @author      Jiaqing Xue <jiaqing3@staff.sina.com.cn>
- * @date        2017/12/13 10:35:42
- *
- * @description 投诉单号实现，参看 twitter snowflake 算法    二进制位数
+ * @description 参看 twitter snowflake 算法    二进制位数
  * @package     Library
  */
 class Snowflake
